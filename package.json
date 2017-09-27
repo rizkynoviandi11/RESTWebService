@@ -1,0 +1,19 @@
+{
+  "name": "restwebservice",
+  "version": "1.0.0",
+  "description": "HW3 Sisdis making REST Web Service using Express and Node.Js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkynoviandi11/RESTWebService.git"
+  },
+  "author": "Rizky Noviandi Purwono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkynoviandi11/RESTWebService/issues"
+  },
+  "homepage": "https://github.com/rizkynoviandi11/RESTWebService#readme"
+}
