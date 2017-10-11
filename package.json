@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/rizkynoviandi11/RESTWebService/issues"
   },
-  "homepage": "https://github.com/rizkynoviandi11/RESTWebService#readme"
+  "homepage": "https://github.com/rizkynoviandi11/RESTWebService#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "http": "0.0.0"
+  }
 }
